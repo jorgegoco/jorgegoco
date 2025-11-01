@@ -11,7 +11,7 @@
 * **🌱 I'm currently learning:** Advanced **Tool Calling** strategies to give agents seamless control over external APIs and applications.
 * **💡 Key Tendencies:** Focusing on **Model Context Protocol (MCP)** integration, local LLM deployment via **Ollama**, and production readiness.
 * **🤝 I'm looking to collaborate on:** Projects focused on secure, autonomous **Agent Operations (AgentOps)** and specialized domain agents.
-* **📫 How to reach me:** Find me on [LinkedIn](YOUR_LINKEDIN_URL) or email me at `your.email@example.com`
+* **📫 How to reach me:** Find me on [LinkedIn](https://www.linkedin.com/in/jorgegoco/) or email me at `jorgegoco70@gmail.com`
 
 ---
 
