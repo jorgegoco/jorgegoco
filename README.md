@@ -25,11 +25,3 @@
 | **Local Environment** | **Ollama** (for local LLM execution/testing), **Docker** |
 | **Design & Front-end** | **Figma** (UI/UX design), React / Next.js, TypeScript |
 | **Deployment** | **Vercel** (Edge deployment), **GitHub Actions** (CI/CD) |
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jorgegoco&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgegoco&show_icons=true&theme=buefy&hide_border=true&title_color=2e8b57&icon_color=2e8b57" alt="Jorge's GitHub Stats" />
-</div>
